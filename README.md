@@ -1,7 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
-## Reg.No: 212224240129
-## Name: G Ramanujam
+## Reg.No: 212224240031
+## Name: DEIVARAJA R
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
